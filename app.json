@@ -2,7 +2,8 @@
   "expo": {
     "name": "tri-tools",
     "slug": "tri-tools",
-    "version": "1.0.0",
+    "version": "0.0.1",
+    "owner": "oles_ka",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
