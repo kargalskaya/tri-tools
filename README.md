@@ -2,7 +2,7 @@
 ## Roadmap
 + technical
   - basic repo [+]
-  - git
+  - git [+]
   - typescript
   - tests
   - redux (mobX?)
