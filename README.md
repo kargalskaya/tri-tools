@@ -3,11 +3,13 @@
 + technical
   - basic repo [+]
   - git [+]
-  - typescript
+  - typescript [+]
+    * aliases
   - tests
   - redux (mobX?)
-  - styles (need framework or best practice)
+  - styles (need framework or best practice) [-]
   - linter
   - prettier
+  - iOS pod (what is it?)
 + buisness
   - main screen
