@@ -11,5 +11,13 @@
   - linter
   - prettier
   - iOS pod (what is it?)
+  - debbuging
 + buisness
   - main screen
+  - navigation
+  - menu
+  - calcs
+  - stopwatch
+  - planner
+  - intervals
+  - diary

@@ -10,9 +10,14 @@ export default function Header() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 0,
     justifyContent: 'center',
-    height: '10%',
+    alignItems: 'center',
+    height: '15%',
+    width: '100%',
+
+    borderWidth: 1,
+    borderColor: '#fff',
   },
   text: {
     color: '#fff',
